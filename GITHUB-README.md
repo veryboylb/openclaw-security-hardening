@@ -28,7 +28,7 @@
 
 ```bash
 # 1. Clone
-git clone https://github.com/YOUR_USERNAME/openclaw-security-hardening.git
+git clone https://github.com/veryboylb/openclaw-security-hardening.git
 cd openclaw-security-hardening
 
 # 2. Audit
@@ -217,8 +217,8 @@ MIT License - See [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/YOUR_USERNAME/openclaw-security-hardening/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/YOUR_USERNAME/openclaw-security-hardening/discussions)
+- **Issues**: [GitHub Issues](https://github.com/veryboylb/openclaw-security-hardening/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/veryboylb/openclaw-security-hardening/discussions)
 - **Email**: leilei369963@outlook.com
 - **Twitter**: 
 

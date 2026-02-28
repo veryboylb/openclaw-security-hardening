@@ -51,7 +51,7 @@ sudo yum install jq
 
 ```bash
 # 克隆仓库
-git clone https://github.com/YOUR_USERNAME/openclaw-security-hardening.git
+git clone https://github.com/veryboylb/openclaw-security-hardening.git
 cd openclaw-security-hardening
 
 # 运行安全审计
@@ -431,8 +431,8 @@ MIT License - 详见 [LICENSE](LICENSE)
 
 ## 📞 支持
 
-- **问题反馈**: [GitHub Issues](https://github.com/YOUR_USERNAME/openclaw-security-hardening/issues)
-- **讨论**: [GitHub Discussions](https://github.com/YOUR_USERNAME/openclaw-security-hardening/discussions)
+- **问题反馈**: [GitHub Issues](https://github.com/veryboylb/openclaw-security-hardening/issues)
+- **讨论**: [GitHub Discussions](https://github.com/veryboylb/openclaw-security-hardening/discussions)
 - **邮件**: leilei369963@outlook.com
 - **Twitter**: 
 
@@ -449,7 +449,7 @@ MIT License - 详见 [LICENSE](LICENSE)
 
 ## 📊 星历史
 
-[![Star History Chart](https://api.star-history.com/svg?repos=YOUR_USERNAME/openclaw-security-hardening&type=Date)](https://star-history.com/#YOUR_USERNAME/openclaw-security-hardening&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=veryboylb/openclaw-security-hardening&type=Date)](https://star-history.com/#veryboylb/openclaw-security-hardening&Date)
 
 ---
 

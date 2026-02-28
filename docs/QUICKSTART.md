@@ -5,7 +5,7 @@
 ### 步骤 1: 克隆仓库
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/openclaw-security-hardening.git
+git clone https://github.com/veryboylb/openclaw-security-hardening.git
 cd openclaw-security-hardening
 ```
 
@@ -284,7 +284,7 @@ openclaw gateway logs
 **需要帮助？**
 
 - 📖 查看 [文档](docs/)
-- 🐛 报告 [问题](https://github.com/YOUR_USERNAME/openclaw-security-hardening/issues)
-- 💬 参与 [讨论](https://github.com/YOUR_USERNAME/openclaw-security-hardening/discussions)
+- 🐛 报告 [问题](https://github.com/veryboylb/openclaw-security-hardening/issues)
+- 💬 参与 [讨论](https://github.com/veryboylb/openclaw-security-hardening/discussions)
 
 **最后更新**: 2026-02-28

@@ -53,8 +53,8 @@ Docs:
 - Security policy
 - Incident response guide"
 
-# 添加远程仓库（替换 YOUR_USERNAME）
-git remote add origin https://github.com/YOUR_USERNAME/openclaw-security-hardening.git
+# 添加远程仓库（替换 veryboylb）
+git remote add origin https://github.com/veryboylb/openclaw-security-hardening.git
 
 # 推送
 git branch -M main
@@ -132,7 +132,7 @@ The first release of OpenClaw Security Hardening Toolkit!
 ### 🚀 Quick Start
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/openclaw-security-hardening.git
+git clone https://github.com/veryboylb/openclaw-security-hardening.git
 cd openclaw-security-hardening
 ./scripts/security-audit.sh
 ./scripts/auto-harden.sh
@@ -231,7 +231,7 @@ After: 90/100 (Secure!)
 
 Your OpenClaw is now protected! 🎉
 
-Get it free: github.com/YOUR_USERNAME/openclaw-security-hardening
+Get it free: github.com/veryboylb/openclaw-security-hardening
 
 #OpenClaw #Security #AI #CyberSecurity
 ```

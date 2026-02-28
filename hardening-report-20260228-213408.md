@@ -51,7 +51,7 @@
 ## 支持
 
 遇到问题？
-- GitHub Issues: https://github.com/YOUR_USERNAME/openclaw-security-hardening/issues
+- GitHub Issues: https://github.com/veryboylb/openclaw-security-hardening/issues
 - 文档：docs/SECURITY.md
 
 ---
