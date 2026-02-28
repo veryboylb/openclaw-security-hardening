@@ -1,0 +1,51 @@
+name: Security Audit
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  schedule:
+    - cron: '0 2 * * *'  # 每天运行
+
+jobs:
+  security-audit:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v4
+    
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20'
+    
+    - name: Install OpenClaw
+      run: |
+        npm install -g openclaw@latest
+        openclaw --version
+    
+    - name: Run Security Audit
+      run: |
+        chmod +x scripts/security-audit.sh
+        ./scripts/security-audit.sh || true
+    
+    - name: Upload Audit Report
+      uses: actions/upload-artifact@v4
+      if: always()
+      with:
+        name: security-audit-report
+        path: security-audit-report-*.md
+        retention-days: 30
+
+  shellcheck:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v4
+    
+    - name: Run ShellCheck
+      uses: ludeeus/action-shellcheck@v2
+      with:
+        check_together: 'yes'
+        format: gcc
