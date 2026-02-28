@@ -434,7 +434,7 @@ MIT License - 详见 [LICENSE](LICENSE)
 - **问题反馈**: [GitHub Issues](https://github.com/veryboylb/openclaw-security-hardening/issues)
 - **讨论**: [GitHub Discussions](https://github.com/veryboylb/openclaw-security-hardening/discussions)
 - **邮件**: leilei369963@outlook.com
-- **Twitter**: 
+- **Twitter**: 稍后公布 
 
 ---
 

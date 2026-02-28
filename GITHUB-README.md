@@ -220,7 +220,7 @@ MIT License - See [LICENSE](LICENSE) file
 - **Issues**: [GitHub Issues](https://github.com/veryboylb/openclaw-security-hardening/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/veryboylb/openclaw-security-hardening/discussions)
 - **Email**: leilei369963@outlook.com
-- **Twitter**: 
+- **Twitter**: 稍后公布 
 
 ---
 
