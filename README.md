@@ -433,8 +433,8 @@ MIT License - 详见 [LICENSE](LICENSE)
 
 - **问题反馈**: [GitHub Issues](https://github.com/YOUR_USERNAME/openclaw-security-hardening/issues)
 - **讨论**: [GitHub Discussions](https://github.com/YOUR_USERNAME/openclaw-security-hardening/discussions)
-- **邮件**: security@yourdomain.com
-- **Twitter**: @YourHandle
+- **邮件**: security@
+- **Twitter**: 
 
 ---
 

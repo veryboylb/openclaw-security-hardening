@@ -66,7 +66,7 @@ git push -u origin main
 **GitHub 仓库设置**:
 
 1. **About 区域**:
-   - Website: https://yourdomain.com
+   - Website: https://
    - Topics: `security`, `openclaw`, `hardening`, `automation`, `bash`, `ai`, `cybersecurity`
 
 2. **Branch Protection**:
