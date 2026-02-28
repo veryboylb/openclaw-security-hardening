@@ -219,7 +219,7 @@ MIT License - See [LICENSE](LICENSE) file
 
 - **Issues**: [GitHub Issues](https://github.com/YOUR_USERNAME/openclaw-security-hardening/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/YOUR_USERNAME/openclaw-security-hardening/discussions)
-- **Email**: security@
+- **Email**: leilei369963@outlook.com
 - **Twitter**: 
 
 ---
