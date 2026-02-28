@@ -1,7 +1,17 @@
+[🇬🇧 English](README-EN.md) | [🇨🇳 中文](README.md)
+
 # 🔒 OpenClaw Security Hardening Toolkit
+[🇬🇧 English](README-EN.md) | [🇨🇳 中文](README.md)
+
+
+[🇬🇧 English](README-EN.md) | [🇨🇳 中文](README.md)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[🇬🇧 English](README-EN.md) | [🇨🇳 中文](README.md)
+
 [![OpenClaw Version](https://img.shields.io/badge/OpenClaw-2026.2.22+-blue)](https://github.com/openclaw/openclaw)
+[🇬🇧 English](README-EN.md) | [🇨🇳 中文](README.md)
+
 [![Security](https://img.shields.io/badge/Security-A+-brightgreen)]()
 
 > **一键加固你的 OpenClaw 实例，防范 CVE-2026-25253、恶意技能、凭证泄露等安全威胁**
